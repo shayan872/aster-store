@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(42, 59, 8);
+    color:aliceblue;
+}
+.navbar .navbar-menu{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 20px;
+}
