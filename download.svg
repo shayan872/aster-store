@@ -1,0 +1,5 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path class="icon-open" d="M3 24.6668H29V21.7779H3V24.6668ZM3 17.4446H29V14.5557H3V17.4446ZM3 7.3335V10.2224H29V7.3335H3Z" fill="#111111"></path>
+									<rect class="icon-close" x="7.86829" y="5.74683" width="26" height="3" transform="rotate(45 7.86829 5.74683)" fill="#111111"></rect>
+									<rect class="icon-close" x="26.2531" y="7.86816" width="26" height="3" transform="rotate(135 26.2531 7.86816)" fill="#111111"></rect>
+								</svg>
